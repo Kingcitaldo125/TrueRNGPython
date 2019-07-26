@@ -11,7 +11,7 @@ mfNames = ["Adam","Andrew","Albert","Alfred","Anthony","Aaron","Allan","Angelo",
 "Harry","Harold","Hank","Henry","Horace",
 "Ian","Ivan",
 "Jacoby","Jake","Jacob","James","Jimmy","Jim","Jerry","Jeff","Jeremy","John","Jon","Joe","Johnny","Jordan","Joseph","Joshua","Josh","Julian","Justin",
-"Kawhi","Kevin","Kody","Kory","Kyle",
+"Karl","Kawhi","Kevin","Kody","Kory","Kyle",
 "Larry","Lenny","LeBron","Linus",
 "Mac","Mat","Matt","Matthew","Michael","Mike","Mikey","Mitt",
 "Nick","Nicholas",
@@ -46,7 +46,7 @@ ffNames = ["Ashley","Ashlee","Allison","Abigail","Ally","Abby","Alexandra","Anas
 "Tara","Theresa","Tina",
 "Veronica"]
 
-mis = ["A.","B.","C.","D.","E.","F.","G.","H.","I.","J.","K.","L.","M.","N.","O","P.","Q.","R.","S.","T.","U.","V.","W.","X.","Y.","Z."]
+mis = ["A.","B.","C.","D.","E.","F.","G.","H.","I.","J.","K.","L.","M.","N.","O.","P.","Q.","R.","S.","T.","U.","V.","W.","X.","Y.","Z."]
 
 lNames = ["Aaron","Abbey","Abby","Adams","Andrews","Albers","Anderson","Anthony","Allen","Ashley","Austin","Arelt",
 "Barrett","Bart","Belcher","Betts","Blake","Bond","Bonds","Brown","Bird","Bruce","Brule","Bryant","Burgundy","Butler","Byrd",
