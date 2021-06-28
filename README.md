@@ -16,3 +16,7 @@ lst = pGet.randRange(5,1,100)
 for l in list:
   print("Item:",l)
 ```
+
+## License
+
+See the [LICENSE](https://github.com/Kingcitaldo125/TrueRNGPython/blob/master/LICENSE) file for details
